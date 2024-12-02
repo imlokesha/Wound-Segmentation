@@ -17,6 +17,7 @@ pip install tensorflow numpy tqdm opencv-python
 
 ## Project Structure
 
+```
 WoundSegmentation/
 │
 ├── data/
@@ -28,6 +29,7 @@ WoundSegmentation/
 │   └── utils/           # Utility functions
 │
 └── README.md
+```
 
 ## PUsage
 ### Data Preparation
